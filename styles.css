@@ -1,0 +1,136 @@
+.phone{
+	border: 1px solid black;
+	width: 400px;
+	height: 800px;
+	border-radius: 20px;
+	overflow: auto;
+	margin: auto;
+	font-family: "Verdana";
+}
+.tinyprof1{
+	border: 1px solid black;
+	width: 370px;
+	height: 56px;
+	margin: auto;
+	font-family: "Verdana";
+	background-color: LightPink;
+	overflow: hidden;
+	cursor: pointer;
+}
+.tinyprof2{
+	border: 1px solid black;
+	width: 370px;
+	height: 56px;
+	margin: auto;
+	font-family: "Verdana";
+	background-color: PowderBlue;
+	cursor: pointer;
+}
+.tinyprof3{
+	border: 1px solid black;
+	width: 370px;
+	height: 56px;
+	margin: auto;
+	font-family: "Verdana";
+	overflow: hidden;
+	cursor: pointer;
+}
+#tinder_logo{
+	width: 380px;
+	margin: auto;
+	cursor: pointer;
+}
+#tinder_logo1{
+	width: 380px;
+	margin: auto;
+}
+.name{
+	margin: auto;
+	font-weight: bold;
+	font-size: 125%;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.arrow{
+	float: right;
+	margin: auto;
+	width: 40px;
+	margin-top: 8px;
+	margin-right: 5px;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+.picture{
+	width: 370px;
+	margin: auto;
+}
+.profpic{
+	width: 370px;
+	border: 1px solid black;
+}
+.name1{
+	font-weight: bold;
+	color: grey;
+	margin-left: 15px;
+}
+.workIcon{
+	width: 20px;
+	margin-left: 15px;
+}
+.jobtext{
+	display: inline;
+	color: grey;
+	font-weight: bold;
+}
+.locationIcon{
+	width: 20px;
+	margin-left: 15px;
+}
+.locationtext{
+	display: inline;
+	color: grey;
+	font-weight: bold;
+}
+.proftext{
+	margin-left: 15px;
+	color: grey;
+	font-weight: bold;
+}
+.back{
+	width: 40px;
+	margin-left: 15px;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
+.messages{
+	border: 2px solid grey;
+	width: 370px;
+	height: 56px;
+	margin: auto;
+	font-weight: bold;
+	color: grey;
+	overflow: hidden;
+	border-radius: 10px;
+	text-align: center;
+	cursor: pointer;
+}
+.self{
+	background-color: PowderBlue;
+	padding: 5px;
+	font-family: "Verdana";
+	font-weight: bold;
+	max-width: 200px;
+	border-radius: 10px;
+	margin-left: 41%;
+	margin-bottom: 10px;
+}
+.other{
+	background-color: WhiteSmoke;
+	padding: 5px;
+	font-family: "Verdana";
+	font-weight: bold;
+	max-width: 200px;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
